@@ -13,6 +13,8 @@ In this project, you will utilize **KiCad** to design a PCB for a desktop lighti
 The circuit includes the **A6211** IC along with passive elements. It features three inputs: the input voltage, ground (GND), and LED dimming. Brightness control of the LED is achieved through a PWM signal by varying the duty cycle. The specifications of the circuit are summarized in **Table 1**.
 
 #### Specifications
+
+**Table 1: Specifications of the circuit**
 | Parameter          | Value         |
 |--------------------|---------------|
 | Input Voltage      | 6V – 48V     |
@@ -20,12 +22,13 @@ The circuit includes the **A6211** IC along with passive elements. It features t
 | Output Current     | 2A           |
 | Switching Frequency | 1 MHz        |
 
-**Table 1: Specifications of the circuit**
 
 ### Components
 The elements in the circuit are listed in **Table 2**. Some components may not be available in KiCad libraries, requiring you to create your own library for adding schematics and footprints. For standard packages, refer to the datasheets for suitable footprints.
 
 #### Component List
+
+**Table 2: List of elements**
 | Reference | Description                          | Part Number           | Notes                                                     |
 |-----------|--------------------------------------|-----------------------|-----------------------------------------------------------|
 | C1        | CAP 47 μF, 50 V, ELECT MZA SMD      | 565-2568-1-ND         | VIN filter electrolytic cap (exactly value not critical) |
@@ -43,7 +46,6 @@ The elements in the circuit are listed in **Table 2**. Some components may not b
 | R2        | 0.1 Ω, 0.5 W, 1%                     | CRM1206-FX-R100ELF    |                                                          |
 | U1        | A6211/A6213                          |                       |                                                          |
 
-**Table 2: List of elements**
 
 ## Goals
 The goals of this project include:
