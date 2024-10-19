@@ -4,7 +4,7 @@
 PCB Design is a crucial skill for electrical engineers, necessary for executing practical projects. This project focuses on designing a PCB for a desktop lighting lamp, emphasizing the essential considerations in the PCB design process. Additionally, the project addresses cost estimation, highlighting factors that influence manufacturing costs, such as board size, layer count, and components. Understanding these factors empowers informed decision-making regarding design trade-offs, ensuring both functionality and cost-effectiveness.
 
 ## Objectives
-In this project, you will utilize **KiCad** to design a PCB for a desktop lighting lamp. Comprehensive tutorials are available on **onQ**, along with numerous online resources for further guidance. The schematic of the circuit is presented in **Figure 1**.
+In this project, you will utilize **KiCad** to design a PCB for a desktop lighting lamp. The schematic of the circuit is presented in **Figure 1**.
 
 ![Schematic of circuit](path_to_schematic_image) <!-- Replace with actual path -->
 
