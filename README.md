@@ -6,7 +6,7 @@ PCB Design is a crucial skill for electrical engineers, necessary for executing 
 ## Objectives
 In this project, you will utilize **KiCad** to design a PCB for a desktop lighting lamp. The schematic of the circuit is presented in **Figure 1**.
 
-[Schematic diagram for the desktop lighting lamp (1).pdf](https://github.com/user-attachments/files/17441848/Schematic.diagram.for.the.desktop.lighting.lamp.1.pdf)
+![Schematic diagram for the desktop lighting lamp 1 (1)-1](https://github.com/user-attachments/assets/7352d64d-0e5a-413b-8a51-51c567da62e3)
 Figure 1: Schematic of circuit
 
 ### Circuit Details
