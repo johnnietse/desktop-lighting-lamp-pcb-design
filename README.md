@@ -63,5 +63,5 @@ The repository contains three folders:
 - **schematic-diagram**: Includes the schematic diagram for the desktop lighting lamp.
 
 ## Conclusion
-By completing this project, we gain valuable skills in PCB design, cost estimation, and the critical considerations necessary for electrical engineering projects. The knowledge acquired enable me to make informed decisions that enhance the functionality and cost-effectiveness of my designs.
+By completing this project, I gain valuable skills in PCB design, cost estimation, and the critical considerations necessary for electrical engineering projects. The knowledge acquired enable me to make informed decisions that enhance the functionality and cost-effectiveness of my designs.
 
