@@ -7,7 +7,7 @@ PCB Design is a crucial skill for electrical engineers, necessary for executing 
 In this project, you will utilize **KiCad** to design a PCB for a desktop lighting lamp. The schematic of the circuit is presented in **Figure 1**.
 
 ![Schematic diagram for the desktop lighting lamp 1 (1)-1](https://github.com/user-attachments/assets/7352d64d-0e5a-413b-8a51-51c567da62e3)
-Figure 1: Schematic of circuit
+*Figure 1: Schematic of circuit*
 
 ### Circuit Details
 The circuit includes the **A6211** IC along with passive elements. It features three inputs: the input voltage, ground (GND), and LED dimming. Brightness control of the LED is achieved through a PWM signal by varying the duty cycle. The specifications of the circuit are summarized in **Table 1**.
