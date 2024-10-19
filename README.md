@@ -42,7 +42,7 @@ The elements in the circuit are listed in **Table 2**. Some components may not b
 | L1        | NR8040T100M (10 μH, 3.4 A, 20%)      | 587-2001-1-ND         | 8 mm inductor                                            |
 | J1        | Pin Header, 3-Pin                    |                       |                                                          |
 | J2        | Pin Header, 2-Pin                    |                       |                                                          |
-| R1        | 63.4 kΩ, 0.1 W, 1%                   | P63.4KHDKR-ND         | RON = 63.4 kΩ gives fSW = 1 MHz                         |
+| R1        | 63.4 kΩ, 0.1 W, 1%                   | P63.4KHDKR-ND         | R<sub>ON</sub> = 63.4 kΩ gives f<sub>SW</sub> = 1 MHz                         |
 | R2        | 0.1 Ω, 0.5 W, 1%                     | CRM1206-FX-R100ELF    |                                                          |
 | U1        | A6211/A6213                          |                       |                                                          |
 
