@@ -1,4 +1,4 @@
-# PCB Design for Desktop Lighting Lamp
+# PCB Design Project - Desktop Lighting Lamp
 
 ## Introduction
 PCB Design is a crucial skill for electrical engineers, necessary for executing practical projects. This project focuses on designing a PCB for a desktop lighting lamp, emphasizing the essential considerations in the PCB design process. Additionally, the project addresses cost estimation, highlighting factors that influence manufacturing costs, such as board size, layer count, and components. Understanding these factors empowers informed decision-making regarding design trade-offs, ensuring both functionality and cost-effectiveness.
