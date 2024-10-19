@@ -38,8 +38,8 @@ The elements in the circuit are listed in **Table 2**. Some components may not b
 | C5        | 0.1 μF, 10 V, X7R ceramic           | 399-1095-1-ND         | V<sub>CC</sub> filter cap                                           |
 | C6        | 10 nF, 50 V, X7R                     | 490-1511-1-ND         | Optional input cap for EN (can be used for 10 kΩ pulldown resistor instead) |
 | C7        | 2.2 μF, 50 V, X5R                    | 587-2402-1-ND         | Optional filter cap across LED string. Try 0.47 μF to 4.7 μF |
-| D1        | B560C-13-F DIODE SCHOTTKY 5 A, 60 V  | B560C-FDICT-ND        | For LED current up to 3 A                                 |
-| L1        | NR8040T100M (10 μH, 3.4 A, 20%)      | 587-2001-1-ND         | 8 mm inductor                                            |
+| D1        | B560C-13-F DIODE SCHOTTKY 5 A, 60 V SMC  | B560C-FDICT-ND        | For LED current up to 3 A                                 |
+| L1        | NR8040T100M (10 μH, 3.4 A, 20%, 44 mΩ, 8x8x4 mm)      | 587-2001-1-ND         | 8 mm inductor                                            |
 | J1        | Pin Header, 3-Pin                    |                       |                                                          |
 | J2        | Pin Header, 2-Pin                    |                       |                                                          |
 | R1        | 63.4 kΩ, 0.1 W, 1%                   | P63.4KHDKR-ND         | R<sub>ON</sub> = 63.4 kΩ gives f<sub>SW</sub> = 1 MHz                         |
