@@ -31,11 +31,11 @@ The elements in the circuit are listed in **Table 2**. Some components may not b
 
 | Reference | Description                          | Part Number           | Notes                                                     |
 |-----------|--------------------------------------|-----------------------|-----------------------------------------------------------|
-| C1        | CAP 47 μF, 50 V, ELECT MZA SMD      | 565-2568-1-ND         | VIN filter electrolytic cap (exactly value not critical) |
-| C2        | CAP CER 4.7 μF, 50 V, X5R 1206      | 587-1962-1-ND         | VIN filter ceramic cap                                    |
+| C1        | CAP 47 μF, 50 V, ELECT MZA SMD      | 565-2568-1-ND         | V<sub>IN</sub> filter electrolytic cap (exactly value not critical) |
+| C2        | CAP CER 4.7 μF, 50 V, X5R 1206      | 587-1962-1-ND         | V<sub>IN</sub> filter ceramic cap                                    |
 | C3        | 0.1 μF, 10 V, X7R, ceramic          | 399-1095-1-ND         | Noise reduction                                           |
 | C4        | 0.047 μF, 50 V, X7R 0603            | 445-5095-1-ND         | BOOT cap                                                 |
-| C5        | 0.1 μF, 10 V, X7R ceramic           | 399-1095-1-ND         | VCC filter cap                                           |
+| C5        | 0.1 μF, 10 V, X7R ceramic           | 399-1095-1-ND         | V<sub>CC</sub> filter cap                                           |
 | C6        | 10 nF, 50 V, X7R                     | 490-1511-1-ND         | Optional input cap for EN (can be used for 10 kΩ pulldown resistor instead) |
 | C7        | 2.2 μF, 50 V, X5R                    | 587-2402-1-ND         | Optional filter cap across LED string. Try 0.47 μF to 4.7 μF |
 | D1        | B560C-13-F DIODE SCHOTTKY 5 A, 60 V  | B560C-FDICT-ND        | For LED current up to 3 A                                 |
